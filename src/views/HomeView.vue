@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TheWelcome from '../components/TheWelcome.vue'
+import FuelCalculator from '@/components/FuelCalculator.vue'
 </script>
 
 <template>
   <main>
-    <TheWelcome />
+    <FuelCalculator />
   </main>
 </template>
